@@ -11,7 +11,7 @@ The Legend language is an an immutable functional language based on the Unified 
 - Execution of model queries in various environments (the Legend language can be transformed into other languages).
 
 ## Types
-
+  
 The type system for the Legend language is described below. Generics are supported but are reserved for meta-modeling and aren't exposed for use in data modeling.
 
 ### Primitive types
